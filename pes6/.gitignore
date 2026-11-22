@@ -1,0 +1,10 @@
+*.iso
+*.ISO
+*.elf
+*.ELF
+*.log
+/log.txt
+/savedata/
+/tools/extractor/build/
+__pycache__/
+*.pyc

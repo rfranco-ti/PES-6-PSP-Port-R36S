@@ -1,0 +1,6 @@
+screen_width 640
+screen_height 480
+aspect_ratio 16:9
+fullscreen 1
+audio_rate 44100
+language 0

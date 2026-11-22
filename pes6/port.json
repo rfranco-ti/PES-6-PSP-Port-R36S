@@ -1,0 +1,33 @@
+{
+  "version": 4,
+  "name": "pes6.zip",
+  "items": [
+    "PES 6.sh",
+    "pes6",
+    "PES 6.png"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Pro Evolution Soccer 6",
+    "porter": [
+      "Ricardo Franco"
+    ],
+    "desc": "Port nativo de Pro Evolution Soccer 6 (PSP) para Linux ARM64 com recompilacao estatica AOT.",
+    "inst": "Copie sua ISO europeia ULES00476 v1.03 para ports/pes6/gamedata/. O EBOOT.elf sera preparado automaticamente em gamedata/assets/.",
+    "genres": [
+      "sports",
+      "simulation"
+    ],
+    "image": {},
+    "rtr": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "desc_md": null,
+    "inst_md": null,
+    "exp": false,
+    "min_glibc": "2.36"
+  }
+}

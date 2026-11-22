@@ -1,0 +1,4 @@
+res=2
+quality=2
+screen=0
+rate=0
